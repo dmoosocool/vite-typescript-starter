@@ -1,7 +1,7 @@
 {
-  "name": "components",
+  "name": "vite-typescript-starter",
   "version": "1.0.0",
-  "description": "",
+  "description": "vite,",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
